@@ -1,0 +1,11 @@
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/AsyncProcessTask$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$integer$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$layout$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$style$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$menu$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$string$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$styleable$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$id$override.class
+CHANGED,/Users/noduritoto/Desktop/abbyy3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/abbyy/ocrsdk/android/R$drawable$override.class
