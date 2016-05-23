@@ -7,6 +7,7 @@ import java.io.Reader;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.widget.TextView;
 
@@ -35,9 +36,13 @@ public class ResultsActivity extends Activity {
 	}
 
 	public void updateResults(Boolean success) {
+		Log.i("noduritoto", "update result start");
 		if (!success)
 			return;
+
 		try {
+
+			// 이미지 처리 후, string화
 			StringBuffer contents = new StringBuffer();
 
 			FileInputStream fis = openFileInput(outputPath);
@@ -51,13 +56,17 @@ public class ResultsActivity extends Activity {
 			} finally {
 				fis.close();
 			}
+			// string 완료
 
+			// textview에 세팅
 			displayMessage(contents.toString());
+
 		} catch (Exception e) {
 			displayMessage("Error: " + e.getMessage());
 		}
 	}
-	
+
+	// textview 에 세팅
 	public void displayMessage( String text )
 	{
 		tv.post( new MessagePoster( text ) );
